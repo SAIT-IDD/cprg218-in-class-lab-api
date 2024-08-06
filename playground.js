@@ -1,3 +1,4 @@
+console.log("testing")
 const mealdb = {
   meals: [
     {
@@ -38,20 +39,4 @@ const mealdb = {
   ],
 };
 
-// Example: mealdb.meals[0].strMeal
-
-// String:
-
-// Number:
-
-// Boolean:
-
-// Null:
-
-// Object:
-
-// Array:
-
-// Date:
-
-// In script.js,
+console.log(mealdb.meals[0].strInstructions)
